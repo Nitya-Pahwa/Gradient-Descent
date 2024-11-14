@@ -1,1 +1,4 @@
 # Gradient-Descent
+In Batch Gradient Descent I have created my own class for doing Batch Gradient Descent and to check if it is working correctly or not I have used Linear Regression to calculate the coefficient, intercept and r2_score and finally comparing it with the ones generate by my class. 
+In Stochastic Gradient Descent I have created my own class for doing Stochastic Gradient Descent and to check if it is working correctly or not I have used Linear Regression to calculate the coefficient, intercept and r2_score and finally comparing it with the ones generate by my class. 
+In Mini Batch Gradient Descent I have created my own class for doing Mini Batch Gradient Descent and to check if it is working correctly or not I have used Linear Regression to calculate the coefficient, intercept and r2_score and finally comparing it with the ones generate by my class. 
